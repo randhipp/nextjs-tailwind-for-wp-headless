@@ -6,4 +6,4 @@ https://nextjs-tailwind-for-wp-headless.vercel.app/
 
 ## Backend on shared hosting
 
-https://headless-wp.primeracoud.com/
+https://headless-wp.primeracloud.com/
